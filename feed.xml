@@ -1,30 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mi Biblioteca OPDS</title>
-  <id>urn:uuid:mi-biblioteca-1779876958</id>
-  <updated>2026-05-27T10:15:58Z</updated>
+  <id>urn:uuid:mi-biblioteca-1779877997</id>
+  <updated>2026-05-27T10:33:17Z</updated>
+  <entry>
+    <title>1984 (George Orwell) (z-library.sk, 1lib.sk, z-lib.sk)</title>
+    <id>urn:uuid:1984 (George Orwell) (z-library.sk, 1lib.sk, z-lib.sk).epub</id>
+    <updated>2026-05-27T10:33:17Z</updated>
+    <link href="books/1984%20%28George%20Orwell%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
+  </entry>
   <entry>
     <title>El_fin_de_la_infancia_Clarke,_Arthur_C_z_library_sk,_1lib_sk,</title>
     <id>urn:uuid:El_fin_de_la_infancia_Clarke,_Arthur_C_z_library_sk,_1lib_sk,.epub</id>
-    <updated>2026-05-27T10:15:58Z</updated>
+    <updated>2026-05-27T10:33:17Z</updated>
     <link href="books/El_fin_de_la_infancia_Clarke%2C_Arthur_C_z_library_sk%2C_1lib_sk%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>Entre Dos Fuegos (Christopher Buehlman) (Z-Library)</title>
     <id>urn:uuid:Entre Dos Fuegos (Christopher Buehlman) (Z-Library).epub</id>
-    <updated>2026-05-27T10:15:58Z</updated>
+    <updated>2026-05-27T10:33:17Z</updated>
     <link href="books/Entre%20Dos%20Fuegos%20%28Christopher%20Buehlman%29%20%28Z-Library%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>Rebelion_En_La_Granja_Orwell_George_z_library_sk,_1lib_sk,_z_</title>
     <id>urn:uuid:Rebelion_En_La_Granja_Orwell_George_z_library_sk,_1lib_sk,_z_.epub</id>
-    <updated>2026-05-27T10:15:58Z</updated>
+    <updated>2026-05-27T10:33:17Z</updated>
     <link href="books/Rebelion_En_La_Granja_Orwell_George_z_library_sk%2C_1lib_sk%2C_z_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>Solaris (Lem Stanislav) (z-library.sk, 1lib.sk, z-lib.sk)</title>
     <id>urn:uuid:Solaris (Lem Stanislav) (z-library.sk, 1lib.sk, z-lib.sk).epub</id>
-    <updated>2026-05-27T10:15:58Z</updated>
+    <updated>2026-05-27T10:33:17Z</updated>
     <link href="books/Solaris%20%28Lem%20Stanislav%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
 </feed>
