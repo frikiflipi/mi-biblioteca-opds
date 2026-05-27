@@ -1,0 +1,35 @@
+name: Generar Catálogo OPDS
+
+on:
+  push:
+    paths:
+      - 'books/**'
+      - 'generate_opds.py'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Generar feed.xml
+        run: python3 generate_opds.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "Sin cambios en feed.xml"
+          else
+            git add feed.xml
+            git commit -m "🔄 Auto-actualizar catálogo OPDS"
+            git push
+          fi
