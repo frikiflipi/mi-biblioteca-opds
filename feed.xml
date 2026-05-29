@@ -1,30 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Mi Biblioteca OPDS</title>
-  <id>urn:uuid:mi-biblioteca-1779880227</id>
-  <updated>2026-05-27T11:10:27Z</updated>
+  <id>urn:uuid:mi-biblioteca-1780050905</id>
+  <updated>2026-05-29T10:35:05Z</updated>
   <entry>
     <title>De_ratones_y_hombres_Steinbeck_John_z_library_sk,_1lib_sk,_z_</title>
     <id>urn:uuid:De_ratones_y_hombres_Steinbeck_John_z_library_sk,_1lib_sk,_z_.epub</id>
-    <updated>2026-05-27T11:10:27Z</updated>
+    <updated>2026-05-29T10:35:05Z</updated>
     <link href="books/De_ratones_y_hombres_Steinbeck_John_z_library_sk%2C_1lib_sk%2C_z_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>El_fin_de_la_infancia_Clarke,_Arthur_C_z_library_sk,_1lib_sk,</title>
     <id>urn:uuid:El_fin_de_la_infancia_Clarke,_Arthur_C_z_library_sk,_1lib_sk,.epub</id>
-    <updated>2026-05-27T11:10:27Z</updated>
+    <updated>2026-05-29T10:35:05Z</updated>
     <link href="books/El_fin_de_la_infancia_Clarke%2C_Arthur_C_z_library_sk%2C_1lib_sk%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>Entre Dos Fuegos (Christopher Buehlman) (Z-Library)</title>
     <id>urn:uuid:Entre Dos Fuegos (Christopher Buehlman) (Z-Library).epub</id>
-    <updated>2026-05-27T11:10:27Z</updated>
+    <updated>2026-05-29T10:35:05Z</updated>
     <link href="books/Entre%20Dos%20Fuegos%20%28Christopher%20Buehlman%29%20%28Z-Library%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
   <entry>
     <title>Fortuna (Hernán Díaz) (z-library.sk, 1lib.sk, z-lib.sk)</title>
     <id>urn:uuid:Fortuna (Hernán Díaz) (z-library.sk, 1lib.sk, z-lib.sk).epub</id>
-    <updated>2026-05-27T11:10:27Z</updated>
+    <updated>2026-05-29T10:35:05Z</updated>
     <link href="books/Fortuna%20%28Hern%C3%A1n%20D%C3%ADaz%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
+  </entry>
+  <entry>
+    <title>Las_primeras_quince_vidas_de_Harry_Au_z_library_sk,_1lib_sk,</title>
+    <id>urn:uuid:Las_primeras_quince_vidas_de_Harry_Au_z_library_sk,_1lib_sk,.epub</id>
+    <updated>2026-05-29T10:35:05Z</updated>
+    <link href="books/Las_primeras_quince_vidas_de_Harry_Au_z_library_sk%2C_1lib_sk%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" />
   </entry>
 </feed>
